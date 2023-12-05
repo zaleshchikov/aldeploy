@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "449244704559",
+    "project_id": "alcoapp-e",
+    "storage_bucket": "alcoapp-e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449244704559:android:ae9f75f389ae046839fbda",
+        "android_client_info": {
+          "package_name": "com.mycompany.alcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449244704559-mf45kntgijjt0pk38bh5brossemtrh55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.alcoapp",
+            "certificate_hash": "ecb3d2873d84f6fac1351aff42bb3355e4d8f63d"
+          }
+        },
+        {
+          "client_id": "449244704559-dol7thhupcqvokv22oivp2hpkmj6t3u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAceH6fKNdoGW6ZDl_uZely2tNOSSwTVLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449244704559-dol7thhupcqvokv22oivp2hpkmj6t3u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449244704559-auv00j2i7h5debi5sadkk1aek0kmkm3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.alcoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
